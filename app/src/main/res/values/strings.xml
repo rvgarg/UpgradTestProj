@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UpgradTestProj</string>
+    <string name="client_id">15200</string>
+    <string name="client_secret">g92ar3WzcyNuNajMX7IJkw((</string>
+    <string name="key">6qz7wL7HFbK3zF8FrGGKww((</string>
+    <string name="Description"> this application is being made for the interview qualification </string>
+    <string name="redirect_uri">example.com</string>
+</resources>
